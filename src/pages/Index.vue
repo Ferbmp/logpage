@@ -109,9 +109,7 @@ body{
     font-family: 'Source Sans Pro', sans-serif;
 }
 
-header{
 
-}
 
 h3{
     color: white;
@@ -239,9 +237,7 @@ header{
       text-decoration: none;
   }
 
-  section.documents{
-      /* padding-top: 112px; */
-  }
+
 
   h2{
     font-size: 24px;
